@@ -49,18 +49,34 @@ The goal of this repository is to experiment with problem-solving approaches, ga
 
 ---
 
+### Mining Spaceship (Assembly)
+- Assembly program simulating a spaceship mining resources in space
+- Demonstrates low-level programming, memory manipulation, and simple game logic
+- Provides insight into registers, loops, and branching in Assembly
+
+**Language:** Assembly
+**Paradigm:** Low-Level / Procedural
+
+---
+
 ## Repository Structure
 
 ```text
 .
-├── python/
-│   ├── tic_tac_toe/
-│   └── nine_mens_morris/
+├── tic_tac_toe/
+│   └── [Python Tic-Tac-Toe files]
 │
-├── prolog/
-│   └── kakuro/
+├── nine_mens_morris/
+│   └── [Python Nine Men's Morris files]
 │
-├── c/
-│   └── kanban_task_manager/
+├── kakuro/
+│   └── [Prolog Kakuro files]
+│
+├── kanban_task_manager/
+│   └── [C Kanban Task Manager files]
+│
+├── mining_spaceship/
+│   └── [Assembly Mining Spaceship files]
 │
 └── README.md
+
