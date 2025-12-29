@@ -63,19 +63,19 @@ The goal of this repository is to experiment with problem-solving approaches, ga
 
 ```text
 .
-├── tic_tac_toe/
+├── Tic-tac-toe/
 │   └── [Python Tic-Tac-Toe files]
 │
-├── nine_mens_morris/
+├── Nine Mens Morris/
 │   └── [Python Nine Men's Morris files]
 │
-├── kakuro/
+├── Kakuro/
 │   └── [Prolog Kakuro files]
 │
-├── kanban_task_manager/
+├── Kanban Task Manager/
 │   └── [C Kanban Task Manager files]
 │
-├── mining_spaceship/
+├── Nave Mineradora/
 │   └── [Assembly Mining Spaceship files]
 │
 └── README.md
